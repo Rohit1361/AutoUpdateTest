@@ -1,0 +1,14 @@
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\bin\Debug\TESTSETUP.exe.config
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\bin\Debug\TESTSETUP.exe.manifest
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\bin\Debug\TESTSETUP.application
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\bin\Debug\TESTSETUP.exe
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\bin\Debug\TESTSETUP.pdb
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.csproj.AssemblyReference.cache
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.Form1.resources
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.Properties.Resources.resources
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.csproj.GenerateResource.cache
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.csproj.CoreCompileInputs.cache
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.exe.manifest
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.application
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.exe
+D:\AutoUpdateTest\TESTSETUP\TESTSETUP\obj\Debug\TESTSETUP.pdb
